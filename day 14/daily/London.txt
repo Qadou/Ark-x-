@@ -1,0 +1,1 @@
+Temperature in London is: 10.6°C
