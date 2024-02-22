@@ -1,0 +1,6 @@
+xss -> scripting request
+SQL injection -> intgrate sql cmd line in request
+csrf -> use user role by external user without permission
+
+
+

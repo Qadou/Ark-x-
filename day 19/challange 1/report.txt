@@ -1,0 +1,7 @@
+- the user inputs does not validate
+- after login we can back to /profile every time when the session opened 
+- csrf attack when the session is opened we can send any request from the url
+==> seggestion
+- add express-validator to secure inputs
+- use excape-html to reject request cmd
+- use csrf token to reject any external user to modify cookies or send any request  
